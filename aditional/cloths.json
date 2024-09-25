@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Big Slick",
+    "amiibo_id": [
+        "0809000004350402"
+    ],
+    "appearance": "The Big Slick is a large-collared rain coat with a pattern styled after Big Man's torso. The zipper, cuffs, and drawstrings are red.",
+    "ability": "Swim Speed Up",
+    "abilities": {
+        "Splatoon3": "The Big Slick comes with Swim Speed Up as the primary ability. As a 1-star item, the Big Slick comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Manta Mask",
+    "amiibo_id": [
+        "0809000004350402",
+    ],
+    "appearance": "The Manta Mask is a replica of the mask that Big Man wears during Return of the Mammalians.",
+    "ability": "Last-Ditch Effort",
+    "abilities": {
+        "Splatoon3": "The Manta Mask comes with Last-Ditch Effort as the primary ability, which, being exclusive to the main slot of Headgear, prevents the wearer from also having Comeback, Opening Gambit, or Tenacity. As a 1-star item, the Manta Mask comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Big Muds",
+    "amiibo_id": ["0809000004350402"],
+    "appearance": "The Big Muds are rubber boots with a pattern styled after Big Man's feet, and red soles. Big Man's logo is at the front of the boot.",
+    "ability": "Stealth Jump",
+    "abilities": {
+        "Splatoon3": "The Big Muds come with Stealth Jump as the primary ability, which, being exclusive to the main slot of Shoes, prevents the wearer from also having Drop Roller or Object Shredder. As a 1-star item, the Big Muds come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Black-Belt Gi",
+    "amiibo_id": ["08050200041b0402"],
+    "appearance": "The Black-Belt Gi is a white uwagi jacket with a black obi belt. The right end of the belt and the left edge of the jacket (folded over the right) both feature a patch matching the wearer's ink color. The right sleeve features a patch on the upper arm featuring Inkling text, and a tree design is embroidered on the back.",
+    "ability": "Haunt",
+    "abilities": {
+        "Splatoon3": "The Black-Belt Gi comes with Haunt as the primary ability, which, being exclusive to the main slot of Clothing, prevents the wearer from also having Ability Doubler, Ninja Squid, Respawn Punisher, or Thermal Ink. As a 1-star item, the Black-Belt Gi comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Sushi Sous-Chef Band",
+    "amiibo_id": ["08050200041b0402"],
+    "appearance": "The Sushi Sous-Chef Band is a white headband with a dark blue spiraling octopus tentacle motif.",
+    "ability": "Ink Saver (Sub)",
+    "abilities": {
+        "Splatoon3": "The Sushi Sous-Chef Band comes with Ink Saver (Sub) as the primary ability. As a 1-star item, the Sushi Sous-Chef Band comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Kick Dampeners",
+    "amiibo_id": ["08050200041b0402"],
+    "appearance": "The Kick Dampeners are a pair of soft, black shoes that cover the the soles, heels, and top of the wearer's feet. They have a red design on the front and brown tips.",
+    "ability": "Quick Super Jump",
+    "abilities": {
+        "Splatoon3": "The Kick Dampeners comes with Quick Super Jump as the primary ability. As a 1-star item, the Kick Dampeners comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Chaos Commander Suit",
+    "amiibo_id": ["08060100041c0402"],
+    "appearance": "The Chaos Commander Suit is a heavy gray crop top with armored shoulder pads. The left shoulder is blue with sharp spikes, and the right shoulder is a darker shade of the wearer's ink color with a white strap. It has a spiked collar with a triangular pendant dangling from the front, as well as a spiked bracelet and metal glove on the left and right hands, respectively. Alongside the right shoulder pad, the small triangular patch on the left side of the chest is a darker shade of the wearer's ink color.",
+    "ability": "Ink Saver (Main)",
+    "abilities": {
+        "Splatoon3": "The Chaos Commander Suit comes with Ink Saver (Main) as the primary ability. As a 1-star item, the Chaos Commander Suit comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Chaos Helm",
+    "amiibo_id": ["08060100041c0402"],
+    "appearance": "The Chaos Helm is a dented silver helmet with a vibrant red crest similar to the Jetflame Crest and a bronze visor.",
+    "ability": "Special Power Up",
+    "abilities": {
+        "Splatoon3": "The Chaos Helm comes with Special Power Up as the primary ability. As a 1-star item, the Chaos Helm comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Chaos Kicks",
+    "amiibo_id": ["08060100041c0402"],
+    "appearance": "The Chaos Kicks are combat boots similar to the Punk Nights, but a much darker version of the wearer's ink color and adorned with shin guards over them that are covered in tape.",
+    "ability": "Intensify Action",
+    "abilities": {
+        "Splatoon3": "The Chaos Kicks comes with Intensify Action as the primary ability. As a 1-star item, the Chaos Kicks comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Chomp Top",
+    "amiibo_id": ["08060100041c0402"],
+    "appearance": "The Chomp Top is a replica of the sarashi, shawl (albeit much shorter and in the form of a T-shirt), and octopus charm Shiver wears, along with a smaller version of her headgear as a bracelet on the player's left wrist.",
+    "ability": "Ninja Squid",
+    "abilities": {
+        "Splatoon3": "The Chomp Top comes with Ninja Squid as the primary ability, which, being exclusive to the main slot of Clothing, prevents the wearer from also having Ability Doubler, Haunt, Respawn Punisher, or Thermal Ink. As a 1-star item, the Chomp Top comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Hohojiro Mask",
+    "amiibo_id": ["08060100041c0402"],
+    "appearance": "The Hohojiro Mask is a replica of the mask that Shiver wears during Return of the Mammalians.",
+    "ability": "Sub Power Up",
+    "abilities": {
+        "Splatoon3": "The Hohojiro Mask comes with Sub Power Up as the primary ability. As a 1-star item, the Hohojiro Mask comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Faux Sharkskin Platfins",
+    "amiibo_id": ["08060100041c0402"],
+    "appearance": "The Faux Sharkskin Platfins are replicas of the okobo-like platform shoes Shiver wears.",
+    "ability": "Ink Resistance Up",
+    "abilities": {
+        "Splatoon3": "The Faux Sharkskin Platfins come with Ink Resistance Up as the primary ability. As a 1-star item, the Faux Sharkskin Platfins come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Eelneck Tank",
+    "amiibo_id": ["0808000004340402"],
+    "appearance": "The Eelneck Tank is a replica of the shirt and shawl Frye wears, along with her squid charm as a necklace and a smaller version of her headgear as a bracelet.",
+    "ability": "Intensify Action",
+    "abilities": {
+        "Splatoon3": "The Eelneck Tank comes with Intensify Action as the primary ability. As a 1-star item, the Eelneck Tank comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Onaga Mask",
+    "amiibo_id": ["0808000004340402"],
+    "appearance": "The Onaga Mask is a replica of the mask that Frye wears during Return of the Mammalians.",
+    "ability": "Run Speed Up",
+    "abilities": {
+        "Splatoon3": "The Onaga Mask comes with Run Speed Up as the primary ability. As a 1-star item, the Onaga Mask comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Eel Heel Socks",
+    "amiibo_id": ["0808000004340402"],
+    "appearance": "The Eel Heel Socks are replicas of the socks Frye wears.",
+    "ability": "Special Saver",
+    "abilities": {
+        "Splatoon3": "The Eel Heel Socks come with Special Saver as the primary ability. As a 1-star item, the Eel Heel Socks come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Enchanted Robe A",
+    "amiibo_id": ["08050100038e0402"],
+    "appearance": "The Enchanted Robe is a black witch's robe.\nThe A variant has its insides change color to match the user's ink and it has a jewel neckline, a wavy hem, and what seem to be glittery sequins on the lower half.\nThe B variant has its insides black and it is slightly longer, has a turtleneck, a flat hem, and a pair of leggings underneath.\nIn Splatoon 2, both variants are unnamed and the A variant is applied for girls, while the B variant is applied for boys. In Splatoon 3, both variants are available as separate pieces of gear and can be worn regardless of the wearer's style.",
+    "ability": "Thermal Ink",
+    "abilities": {
+        "Splatoon3": "The Enchanted Robe comes with Thermal Ink as the primary ability, which, being exclusive to the main slot of Clothing, prevents the wearer from also having Ability Doubler, Haunt, Ninja Squid, or Respawn Punisher. As a 2-star item, the Enchanted Robe comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Enchanted Robe B",
+    "amiibo_id": ["08050100038e0402"],
+    "appearance": "The Enchanted Robe is a black witch's robe.\nThe A variant has its insides change color to match the user's ink and it has a jewel neckline, a wavy hem, and what seem to be glittery sequins on the lower half.\nThe B variant has its insides black and it is slightly longer, has a turtleneck, a flat hem, and a pair of leggings underneath.\nIn Splatoon 2, both variants are unnamed and the A variant is applied for girls, while the B variant is applied for boys. In Splatoon 3, both variants are available as separate pieces of gear and can be worn regardless of the wearer's style.",
+    "ability": "Thermal Ink",
+    "abilities": {
+        "Splatoon3": "The Enchanted Robe comes with Thermal Ink as the primary ability, which, being exclusive to the main slot of Clothing, prevents the wearer from also having Ability Doubler, Haunt, Ninja Squid, or Respawn Punisher. As a 2-star item, the Enchanted Robe comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Enchanted Hat",
+    "amiibo_id": ["08050100038e0402"],
+    "appearance": "The Enchanted Hat is a black witch's hat. The inside and tip of the hat change color to match the wearer's ink.",
+    "ability": "Ink Saver (Main)",
+    "abilities": {
+        "Splatoon3": "The Enchanted Hat comes with Ink Saver (Main) as the primary ability. As a 2-star item, the Enchanted Hat comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Enchanted Boots",
+    "amiibo_id": ["08050100038e0402"],
+    "appearance": "The Enchanted Boots are a pair of black velvet witch's boots that curve upwards at the front end of the shoe. The inside of the boots change color to match the wearer's ink.",
+    "ability": "Run Speed Up",
+    "abilities": {
+        "Splatoon3": "The Enchanted Boots come with Run Speed Up as the primary ability. As a 2-star item, the Enchanted Boots come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "World Tour Puffy Coat",
+    "amiibo_id": ["0803000004380402"],
+    "appearance": "The World Tour Puffy Coat is a replica of Pearl's coat, gloves and dress worn in Side Order, as well as in artwork with Damp Socks feat. Off the Hook and in Sunken Scroll 22. Instead of a dress, the jacket has a long shirt underneath.",
+    "ability": "Sub Power Up",
+    "abilities": {
+        "Splatoon3": "The World Tour Puffy Coat comes with Sub Power Up as the primary ability. As a 1-star item, the World Tour Puffy Coat comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "World Tour Crown",
+    "amiibo_id": ["0803000004380402"],
+    "appearance": "The World Tour Crown is a replica of Pearl's crown and glasses worn in Side Order, as well as in artwork with Damp Socks feat. Off the Hook and in Sunken Scroll 22.",
+    "ability": "Ink Recovery Up",
+    "abilities": {
+        "Splatoon3": "The World Tour Crown comes with Ink Resistance Up as the primary ability. As a 1-star item, the World Tour Crown comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "World Tour Boots",
+    "amiibo_id": ["0803000004380402"],
+    "appearance": "The World Tour Boots are a replica of Pearl's shoes worn in Side Order, as well as in artwork with Damp Socks feat. Off the Hook and in Sunken Scroll 22. On the back of the boots are symbols that resemble Pearl's eyes.",
+    "ability": "Quick Super Jump",
+    "abilities": {
+        "Splatoon3": "The World Tour Boots comes with Quick Super Jump as the primary ability. As a 1-star item, the World Tour Boots comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Fresh Fish Gloves",
+    "amiibo_id": ["0805030003900402"],
+    "appearance": "The Fresh Fish Gloves is a black cartoon mascot costume with cartoonish white gloves featured with a black long sleeved shirt. It is based on the Fresh Fish.",
+    "ability": "Quick Super Jump",
+    "abilities": {
+        "Splatoon2": "The Fresh Fish Gloves come with Quick Super Jump as the primary ability. As a 2-star item, the Fresh Fish Gloves come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Fresh Fish Gloves come with Quick Super Jump as the primary ability. As a 1-star item, the Fresh Fish Gloves come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Fresh Fish Head",
+    "amiibo_id": ["0805030003900402"],
+    "appearance": "The Fresh Fish Head is a cartoon fish mascot mask, based on the Fresh Fish. The fins of the head match the wearer's ink color.",
+    "ability": "Comeback",
+    "abilities": {
+        "Splatoon2": "The Fresh Fish Head comes with Comeback as the primary ability, which, being exclusive to the main slot of Headgear, prevents the wearer from also having Last-Ditch Effort, Opening Gambit, or Tenacity. As a 2-star item, the Fresh Fish Head comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Fresh Fish Head comes with Comeback as the primary ability, which, being exclusive to the main slot of Headgear, prevents the wearer from also having Last-Ditch Effort, Opening Gambit, or Tenacity. As a 1-star item, the Fresh Fish Head comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Fresh Fish Feet",
+    "amiibo_id": ["0805030003900402"],
+    "appearance": "The Fresh Fish Feet are a pair of tan cartoon fish mascot shoes, based on the Fresh Fish.",
+    "ability": "Quick Respawn",
+    "abilities": {
+        "Splatoon2": "The Fresh Fish Feet come with Quick Respawn as the primary ability. As a 2-star item, the Fresh Fish Feet come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Fresh Fish Feet come with Quick Respawn as the primary ability. As a 1-star item, the Fresh Fish Feet come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "World Tour Jacket",
+    "amiibo_id": ["0804000004390402"],
+    "appearance": "The World Tour Jacket is a replica of the jacket and gloves Marina wears in Side Order, as well as in artwork with Damp Socks feat. Off the Hook and in Sunken Scroll 22. Instead of a bralette, it has a black turtleneck crop top underneath.",
+    "ability": "Swim Speed Up",
+    "abilities": {
+        "Splatoon3": "The World Tour Jacket comes with Swim Speed Up as the primary ability. As a 1-star item, the World Tour Jacket comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "World Tour Headphones",
+    "amiibo_id": ["0804000004390402"],
+    "appearance": "The World Tour Headphones is a replica of Marina's headphones worn in Side Order, as well as in artwork with Damp Socks feat. Off the Hook and in Sunken Scroll 22.",
+    "ability": "Tenacity",
+    "abilities": {
+        "Splatoon3": "The World Tour Headphones comes with Tenacity as the primary ability, which, being exclusive to the main slot of Headgear, prevents the wearer from also having Comeback, Last-Ditch Effort, or Opening Gambit. As a 1-star item, the World Tour Headphones comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "World Tour Heels",
+    "amiibo_id": ["0804000004390402"],
+    "appearance": "The World Tour Heels are inspired by the shoes Marina wears in Side Order, as well as in artwork with Damp Socks feat. Off the Hook and in Sunken Scroll 22; instead of being pumps, they have the appearance of ankle boots.",
+    "ability": "Sub Power Up",
+    "abilities": {
+        "Splatoon3": "The World Tour Heels comes with Sub Power Up as the primary ability. As a 1-star item, the World Tour Heels comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Marinated Top",
+    "amiibo_id": ["0804000003770402"],
+    "appearance": "The Marinated Top is a replica of the white crop top Marina wears during the Octo Expansion. It also comes with a silver necklace, a watch, and a bracelet. On masculine styles, the top covers more midriff and slightly more shoulder.",
+    "ability": "Special Power Up",
+    "abilities": {
+        "Splatoon2": "The Marinated Top comes with Special Power Up as the primary ability. As a 2-star item, the Marinated Top comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Marinated Top comes with Special Power Up as the primary ability. As a 1-star item, the Marinated Top comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Marinated Headphones",
+    "amiibo_id": ["0804000003770402"],
+    "appearance": "The Marinated Headphones are replicas of the headphones and bandana Marina wears during the Octo Expansion, although the bandana is worn under the headphones, unlike how Marina wears them. The color of the glowing portions of the headphones changes to match the wearer's ink.\nIn Splatoon 2, the ends of the bandana are knotted if worn by girls (like how Marina wears hers), while they are instead tucked under each other if worn by boys, similar to the Black FishFry Bandana and FishFry Biscuit Bandana. In Splatoon 3, however, the ends of the bandana are always tucked under each other.\nWhen displayed in a Locker in Splatoon 3, this gear is placed on a black mannequin head.",
+    "ability": "Special Power Up",
+    "abilities": {
+        "Splatoon2": "The Marinated Headphones come with Special Saver as the primary ability. As a 2-star item, the Marinated Headphones come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Marinated Headphones come with Special Saver as the primary ability. As a 1-star item, the Marinated Headphones come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Marinated Slip-Ons",
+    "amiibo_id": ["0804000003770402"],
+    "appearance": "The Marinated Slip-Ons look like a replica to the slip-ons Marina wears during the Octo Expansion. They are a pair of white-soled slip-ons with a silver ribbon tied in a knot on the top of the shoe.",
+    "ability": "Special Power Up",
+    "abilities": {
+        "Splatoon2": "The Marinated Slip-Ons come with Ink Recovery Up as the primary ability. As a 2-star item, the Marinated Slip-Ons come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Marinated Slip-Ons come with Ink Recovery Up as the primary ability. As a 1-star item, the Marinated Slip-Ons come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Pearlescent Hoodie",
+    "amiibo_id": ["0803000003760402"],
+    "appearance": "The Pearlescent Hoodie is a replica of the hoodie Pearl wears during the Octo Expansion. The hoodie is light pink with long, light yellow sleeves. It comes with a gold necklace and five golden rings, three of which are worn on the right hand with the other two on the left. The hood is not worn over the player's head, unlike how Pearl wears it in the Octo Expansion.",
+    "ability": "Respawn Punisher",
+    "abilities": {
+        "Splatoon2": "The Pearlescent Hoodie comes with Respawn Punisher as the primary ability, which, being exclusive to the main slot of Clothing, prevents the wearer from also having Ability Doubler, Haunt, Ninja Squid, or Thermal Ink. As a 2-star item, the Pearlescent Hoodie comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Pearlescent Hoodie comes with Respawn Punisher as the primary ability, which, being exclusive to the main slot of Clothing, prevents the wearer from also having Ability Doubler, Haunt, Ninja Squid, or Thermal Ink. As a 1-star item, the Pearlescent Hoodie comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Pearlescent Crown",
+    "amiibo_id": ["0803000003760402"],
+    "appearance": "The Pearlescent Crown looks like a replica to the crown Pearl wears during the Octo Expansion. The crown is gold with mauve and blue jewels on it.\nThe S variant has the crown being smaller than the wearer's head, hence being worn on top of it, similar to how Pearl wears her crowns. On the other hand, the L variant has the crown being bigger and worn more like normal crowns.\nIn Splatoon 2, both variants are unnamed, and the S variant is applied for girls, while the L variant is applied for boys. In Splatoon 3, both variants are available as separate pieces of gear and can be worn regardless of the wearer's style.",
+    "ability": "Respawn Punisher",
+    "abilities": {
+        "Splatoon2": "The Pearlescent Crown comes with Bomb Defense Up DX as the primary ability. As a 2-star item, the Pearlescent Crown comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "Both Pearlescent Crown S and Pearlescent Crown L come with Sub Resistance Up as the primary ability. As both of them are 1-star items, they each come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since both items are made by the amiibo gear brand, they each has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Pearlescent Kicks",
+    "amiibo_id": ["0803000003760402"],
+    "appearance": "The Pearlescent Kicks look like a replica of the shoes Pearl wears during the Octo Expansion. They are a silver lavender color with light purple shoelaces. On the front of the tongue is a black square with an outline of the Splatoon 2 Splatfest logo in gold.",
+    "ability": "Respawn Punisher",
+    "abilities": {
+        "Splatoon2": "The Pearlescent Kicks come with Special Charge Up as the primary ability. As a 2-star item, the Pearlescent Kicks come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Pearlescent Kicks come with Special Charge Up as the primary ability. As a 1-star item, the Pearlescent Kicks come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Power Armor",
+    "amiibo_id": ["0800030002610402", "0800030000400402"],
+    "appearance": "The Power Armor is a huge, bulky set of armor. Its base layer is made of dark gray metal, and it has light gray plates on the chest and arms with a few medium gray spots. It includes large metal gloves that are part of the sleeves. Coming out of the chest plates and curving around the shoulders to the back are two thick tubes with a a pattern in black as well as the wearer's ink color.\nBecause of its unusually large size, the Power Armor, along with the rest of the Power Gear, often clips with the wearer's body and/or surroundings. Also, since the gloves are perpetually clenched into fists, any movement of the wearer's hands cannot be seen.",
+    "ability": "Quick Respawn",
+    "abilities": {
+        "Splatoon": "The Power Armor comes with Quick Respawn as the primary ability. As a 2-star item, the Power Armor comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail or 30,000 cash for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon2": "The Power Armor comes with Quick Respawn as the primary ability. As a 2-star item, the Power Armor comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Power Armor comes with Quick Respawn as the primary ability. As a 1-star item, the Power Armor comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Power Mask",
+    "amiibo_id": ["0800030002610402", "0800030000400402"],
+    "appearance": "The Power Mask is a large, bulky helmet. It has a main section made of shiny black metal that is about as wide as the wearer's shoulders. Curving around the back and sides is a light gray piece with darker gray spots toward the bottom. In the place of eyes, there is a bright strip of light that changes color to match that of the wearer's Ink, with larger shapes on both ends that give the impression of eyes on the sides of the wearer's head. Over the nose and mouth are three thick tubes, each with a pattern in black as well as the wearer's Ink color. These tubes, the 'eyes' on the sides of the head, and the roughly triangular shape of the helmet itself give it a squid-like appearance.\nBecause of its unusually large size, the Power Mask, along with the rest of the Power Gear, often clips with the wearer's body and/or surroundings.",
+    "ability": "Sub Resistance Up",
+    "abilities": {
+        "Splatoon": "The Power Mask comes with Defense Up as the primary ability. As a 2-star item, the Power Mask comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail or 30,000 cash for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon2": "The Power Mask comes with Bomb Defense Up DX as the primary ability. As a 2-star item, the Power Mask comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Power Mask comes with Sub Resistance Up as the primary ability. As a 1-star item, the Power Mask comes with one additional slot for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Power Boots",
+    "amiibo_id": ["0800030002610402", "0800030000400402"],
+    "appearance": "The Power Boots are a pair of complex, futuristic boots. They are mostly white, black, and gray, with silver panels on their upper side. They are very wide at the middle and back of the foot, but are considerably narrower at the toes. They are quite tall, coming up to the wearer's knees. On the back is a thick tube with a pattern in black as well as the wearer's ink color, which comes out at the heel and goes back in at the calf.\nBecause of their unusually large size, the Power Boots, along with the rest of the Power Gear, often clip with the wearer's body and/or surroundings.",
+    "ability": "Ink Saver (Main)",
+    "abilities": {
+        "Splatoon": "The Power Boots come with Ink Saver (Main) as the primary ability. As a 2-star item, the Power Boots come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail or 30,000 cash for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon2": "The Power Boots come with Ink Saver (Main) as the primary ability. As a 2-star item, the Power Boots come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Power Boots come with Ink Saver (Main) as the primary ability. As a 1-star item, the Power Boots come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Power Armor Mk I",
+    "amiibo_id": ["08000300036b0402"],
+    "appearance": "The Power Armor Mk I is a suit of futuristic silver armor that is highly reflective. The torso, arms and hands are all covered with metal plates.",
+    "ability": "Ink Resistance Up",
+    "abilities": {
+        "Splatoon2": "The Power Armor Mk I comes with Ink Resistance Up as the primary ability. As a 2-star item, the Power Armor Mk I comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Power Armor Mk I comes with Ink Resistance Up as the primary ability. As a 1-star item, the Power Armor Mk I comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Power Mask Mk I",
+    "amiibo_id": ["08000300036b0402"],
+    "appearance": "The Power Mask Mk I is a highly reflective full helmet. The forehead and eyes of the helmet are an arrow-shaped light that matches the current ink color.",
+    "ability": "Ink Resistance Up",
+    "abilities": {
+        "Splatoon2": "The Power Mask Mk I comes with Ink Resistance Up as the primary ability. As a 2-star item, the Power Mask Mk I comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Power Mask Mk I comes with Ink Resistance Up as the primary ability. As a 1-star item, the Power Mask Mk I comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Power Boots Mk I",
+    "amiibo_id": ["08000300036b0402"],
+    "appearance": "The Power Boots Mk I are large, angular, armored boots. They are quite reflective and blocky in shape.",
+    "ability": "Sub Resistance Up",
+    "abilities": {
+        "Splatoon2": "The Power Boots Mk I come with Bomb Defense Up DX as the primary ability. As a 2-star item, the Power Boots Mk I come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Power Boots Mk I come with Sub Resistance Up as the primary ability. As a 1-star item, the Power Boots Mk I come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Samurai Jacket",
+    "amiibo_id": ["0800020002600402", "08000200003f0402"],
+    "appearance": "The Samurai Jacket is a suit of armor in the style of ō-yoroi, Japanese armor traditionally worn by samurai. The first layer is a loose shirt in a dull blue-green with white squid outline patterns (the same fabric constituting the cloth backing of the Samurai Shoes' shin guards), with a white collar and a black shirt underneath. Over the blue-green shirt is a light gray breastplate with a soft blue and red pattern on it, as if painted. On the shoulders are massive spaulders made of many layers of metal that fall almost to the wearer's wrists. Falling to the wearer's knees is a skirt-like garment, also made from layers of metal. Both the spaulders and the skirt change color to match that of the wearer's ink. Golden forearm guards are strapped to the arms with a single green band each, and around the waist a slightly thinner white band is worn as a belt. A small black object, possibly a small sheathed knife or a tessen, is tucked into this band at an angle.",
+    "ability": "Special Charge Up",
+    "abilities": {
+        "Splatoon": "The Samurai Jacket comes with Special Charge Up as the primary ability. As a 2-star item, the Samurai Jacket comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail or 30,000 cash for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon2": "The Samurai Jacket comes with Special Charge Up as the primary ability. As a 2-star item, the Samurai Jacket comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Samurai Jacket comes with Special Charge Up as the primary ability. As a 1-star item, the Samurai Jacket comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Samurai Helmet",
+    "amiibo_id": ["0800020002600402", "08000200003f0402"],
+    "appearance": "The Samurai Helmet is a large helmet wider than the wearer's shoulders, in the style of kabuto. It has a shiny gold crest on the front in the shape of a stylized squid and a thick cord tied in a bow at the chin. It also has two large, curved, wing-like shapes, one on both sides of the head. The cord as well as the back and sides of the helmet change color to match that of the wearer's ink.\nBecause of its unusually large size, the Samurai Helmet often clips with the wearer's body and/or surroundings.",
+    "ability": "Quick Super Jump",
+    "abilities": {
+        "Splatoon": "The Samurai Helmet comes with Damage Up as the primary ability. As a 2-star item, the Samurai Helmet comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail or 30,000 cash for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon2": "The Samurai Helmet comes with Quick Super Jump as the primary ability. As a 2-star item, the Samurai Helmet comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Samurai Helmet comes with Quick Super Jump as the primary ability. As a 1-star item, the Samurai Helmet comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Samurai Shoes",
+    "amiibo_id": ["0800020002600402", "08000200003f0402"],
+    "appearance": "The Samurai shoes are a pair of straw waraji. Underneath them are light gray tabi with a pattern of dark gray spots, reminiscent of the Splatoon logo. These are matched with a pair of shin guards, with black plating with a square pattern that matches the wearer's ink color and a blue-green cloth backing with white squid outline patterns (the same fabric constituting the undershirt of the Samurai Jacket). These guards are fastened in place with two green bands each.",
+    "ability": "Special Power Up",
+    "abilities": {
+        "Splatoon": "The Samurai Shoes come with Special Duration Up as the primary ability. As a 2-star item, the Samurai Shoes come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail or 30,000 cash for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon2": "The Samurai Shoes come with Special Power Up as the primary ability. As a 2-star item, the Samurai Shoes come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Samurai Shoes come with Special Power Up as the primary ability. As a 1-star item, the Samurai Shoes come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "School Cardigan A",
+    "amiibo_id": ["0800010003690402"],
+    "appearance": "The School Cardigan is a black long-sleeved button-front cardigan with a white dress shirt underneath with a pink-green striped tie.\nThe A variant has the cardigan buttoned completely and comes with a short pleated navy-blue skirt. The tie takes form of a bowtie.\nThe B variant has the cardigan unbuttoned and the white shirt has a top unbuttoned button. Both the cardigan and shirt's sleeves are rolled up, with the shirt cuffs covering each sleeve. The tie takes form of a necktie. On the left wrist is a black watch, with a face that changes to match the wearer's ink color. In Splatoon 3, the watch face does not change color.\n\nIn Splatoon 2, both variants are unnamed and the A variant is applied for girls, while the B variant is applied for boys. In Splatoon 3, both variants are available as separate pieces of gear and can be worn regardless of the wearer's style.",
+    "ability": "Run Speed Up",
+    "abilities": {
+        "Splatoon2": "The School Cardigan comes with Run Speed Up as the primary ability. As a 2-star item, the School Cardigan comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "Both School Cardigan A and School Cardigan B come with Run Speed Up as the primary ability. As both of them are 1-star items, they each come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since both items are made by the amiibo gear brand, they each has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "School Cardigan B",
+    "amiibo_id": ["0800010003690402"],
+    "appearance": "The School Cardigan is a black long-sleeved button-front cardigan with a white dress shirt underneath with a pink-green striped tie.\nThe A variant has the cardigan buttoned completely and comes with a short pleated navy-blue skirt. The tie takes form of a bowtie.\nThe B variant has the cardigan unbuttoned and the white shirt has a top unbuttoned button. Both the cardigan and shirt's sleeves are rolled up, with the shirt cuffs covering each sleeve. The tie takes form of a necktie. On the left wrist is a black watch, with a face that changes to match the wearer's ink color. In Splatoon 3, the watch face does not change color.\n\nIn Splatoon 2, both variants are unnamed and the A variant is applied for girls, while the B variant is applied for boys. In Splatoon 3, both variants are available as separate pieces of gear and can be worn regardless of the wearer's style.",
+    "ability": "Run Speed Up",
+    "abilities": {
+        "Splatoon2": "The School Cardigan comes with Run Speed Up as the primary ability. As a 2-star item, the School Cardigan comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "Both School Cardigan A and School Cardigan B come with Run Speed Up as the primary ability. As both of them are 1-star items, they each come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since both items are made by the amiibo gear brand, they each has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Squid Clip-Ons",
+    "amiibo_id": ["0800010003690402"],
+    "appearance": "The Squid Clip-Ons are a pair of clip-on earrings worn on the bottom of both ears. The earrings resemble the "2" from the logo of Splatoon 2. The front layer of each earring is a bright pink color, while the back layer is a neon green color, both in a shiny texture, with a layer of white in between. The fasteners, which can be seen from the back, are a metallic gray.\nIn Splatoon 2 only, when worn by boys, there is only one earring, which is worn on the top of the left ear.\nIn Splatoon 3, when displayed in a locker, the two earrings are attached to a black arrow or squid-shaped plastic tag.",
+    "ability": "Opening Gambit",
+    "abilities": {
+        "Splatoon2": "The Squid Clip-Ons come with Opening Gambit as the primary ability, which, being exclusive to the main slot of Headgear, prevents the wearer from also having Comeback, Last-Ditch Effort, or Tenacity. As a 2-star item, the Squid Clip-Ons come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Squid Clip-Ons come with Opening Gambit as the primary ability, which, being exclusive to the main slot of Headgear, prevents the wearer from also having Comeback, Last-Ditch Effort, or Tenacity. As a 1-star item, the Squid Clip-Ons come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Fringed Loafers",
+    "amiibo_id": ["0800010003690402"],
+    "appearance": "The Fringed Loafers are formal, brown leather loafers.\nIn Splatoon 2, they also come with loose white socks only if worn by girls. In Splatoon 3, both sockless base variant and the aforementioned socks variant are available as separate pieces of gear, which can be worn regardless of the wearer's style.",
+    "ability": "Sub Resistance Up",
+    "abilities": {
+        "Splatoon2": "The Fringed Loafers come with Bomb Defense Up DX as the primary ability. As a 2-star item, the Fringed Loafers come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "Both Base Fringed Loafers and Baggy-Sock Fringe Loafs come with Sub Resistance Up as the primary ability. As both of them are 1-star items, they each come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since both items are made by the amiibo gear brand, they each have equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Schoolyard Scrap Jack",
+    "amiibo_id": ["0800010004150402"],
+    "appearance": "The Schoolyard Scrap Jack is an open black jacket of a school uniform, with the five jacket buttons lined up on the right side of the jacket, and a collar-pin on the upper left of a four pointed star with the image of a stylized squid marking emblazoned on it. A sarashi is worn underneath. The jacket itself is in rough condition, with multiple tears throughout the fabric giving the appearance of scars. The collar and bottom of the jacket are frayed in several places, with a coattail forming as a result in the latter area. The sleeves are rolled up to just below the elbow. The inside of the jacket changes color to match the wearer's ink color.",
+    "ability": "Sub Resistance Up",
+    "abilities": {
+        "Splatoon3": "The Schoolyard Scrap Jack comes with Sub Resistance Up as the primary ability. As a 1-star item, the Schoolyard Scrap Jack comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability."
+    }
+  },
+  {
+    "name": "Boss Floss",
+    "amiibo_id": ["0800010004150402"],
+    "appearance": "The Boss Floss is a headless fishbone which the player puts in their mouth.",
+    "ability": "Intensify Action",
+    "abilities": {
+        "Splatoon3": "The Boss Floss comes with Intensify Action as the primary ability. As a 1-star item, the Boss Floss comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Knotty Bois",
+    "amiibo_id": ["0800010004150402"],
+    "appearance": "The Knotty Bois are a pair of brown rope sandals, based on the traditional Japanese shoe known as waraji, similar to the Samurai Shoes. However there are no tabi, just the rope with a black and yellow ankle cuff. The ropes come together in bow knots.",
+    "ability": "Intensify Action",
+    "abilities": {
+        "Splatoon3": "The Knotty Bois comes with Drop Roller as the primary ability, which, being exclusive to the main slot of Shoes, prevents the wearer from also having Object Shredder or Stealth Jump. As a 1-star item, the Knotty Bois comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Squinja Suit",
+    "amiibo_id": ["08000200036a0402"],
+    "appearance": "The Squinja Suit is an all-black shozoku robe with black fingerless gloves and arm guards. On the left upper arm is a small pocket. On the right upper arm is an emblem shaped like a squid's mantle. The arm guards change color to match the wearer's ink.",
+    "ability": "Special Saver",
+    "abilities": {
+        "Splatoon2": "The Squinja Suit comes with Special Saver as the primary ability. As a 2-star item, the Squinja Suit comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Squinja Suit comes with Special Saver as the primary ability. As a 1-star item, the Squinja Suit comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Squinja Mask Mk I",
+    "amiibo_id": ["08000200036a0402"],
+    "appearance": "The Squinja Mask is an all-black shozoku headpiece with a metallic eye guard. The color of the eye guard changes to match the wearer's ink.\nThe Mk I variant only exposes the wearer's eyes and a small space between them, while the Mk II variant removes the lower face covering and the back part is larger.\nIn Splatoon 2, both variants are unnamed and the Mk I variant is applied for boys, while the Mk II variant is applied for girls. In Splatoon 3, both variants are available as separate pieces of gear and can be worn regardless of the wearer's style.",
+    "ability": "Quick Respawn",
+    "abilities": {
+        "Splatoon2": "The Squinja Mask comes with Quick Respawn as the primary ability. As a 2-star item, the Squinja Mask comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "Both Squinja Mask Mk I and Squinja Mask Mk II come with Quick Respawn as the primary ability. As both of them are 1-star items, they each come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since both items are made by the amiibo gear brand, they each has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Squinja Mask Mk II",
+    "amiibo_id": ["08000200036a0402"],
+    "appearance": "The Squinja Mask is an all-black shozoku headpiece with a metallic eye guard. The color of the eye guard changes to match the wearer's ink.\nThe Mk I variant only exposes the wearer's eyes and a small space between them, while the Mk II variant removes the lower face covering and the back part is larger.\nIn Splatoon 2, both variants are unnamed and the Mk I variant is applied for boys, while the Mk II variant is applied for girls. In Splatoon 3, both variants are available as separate pieces of gear and can be worn regardless of the wearer's style.",
+    "ability": "Quick Respawn",
+    "abilities": {
+        "Splatoon2": "The Squinja Mask comes with Quick Respawn as the primary ability. As a 2-star item, the Squinja Mask comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "Both Squinja Mask Mk I and Squinja Mask Mk II come with Quick Respawn as the primary ability. As both of them are 1-star items, they each come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since both items are made by the amiibo gear brand, they each has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Squinja Boots",
+    "amiibo_id": ["08000200036a0402"],
+    "appearance": "The Squinja Boots are traditional shozoku footwear. The knee guards change color to a darker shade of the wearer's ink.",
+    "ability": "Swim Speed Up",
+    "abilities": {
+        "Splatoon2": "The Squinja Boots come with Swim Speed Up as the primary ability. As a 2-star item, the Squinja Boots come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Squinja Boots come with Swim Speed Up as the primary ability. As a 1-star item, the Squinja Boots come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Steel Platemail",
+    "amiibo_id": ["08050200038f0402"],
+    "appearance": "The Steel Platemail is a medieval knight's chestplate with shell-shaped shoulder pads and arm gauntlets over what seems to be a black sweater resembling a chain mail coat. The center of the chestplate features a molded octopus pattern with a detailed humanlike face, and a leather belt that changes to match the wearer's ink color is worn around the waist.",
+    "ability": "Ink Saver (Sub)",
+    "abilities": {
+        "Splatoon2": "The Steel Platemail comes with Ink Saver (Sub) as the primary ability. As a 2-star item, the Steel Platemail comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Steel Platemail comes with Ink Saver (Sub) as the primary ability. As a 1-star item, the Steel Platemail comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Steel Helm",
+    "amiibo_id": ["08050200038f0402"],
+    "appearance": "The Steel Helm is a steel medieval knight's helmet. It comes complete with a mouth guard and a pair of fins on its top. There are some swirl designs just above the gap for the wearer's eyes and a strip going in between the two fins that matches the player's ink color.",
+    "ability": "Special Charge Up",
+    "abilities": {
+        "Splatoon2": "The Steel Helm comes with Special Charge Up as the primary ability. As a 2-star item, the Steel Helm comes with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+        "Splatoon3": "The Steel Helm comes with Special Charge Up as the primary ability. As a 1-star item, the Steel Helm comes with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since it is made by the amiibo gear brand, it has equal chances to roll any secondary ability.",
+    }
+  },
+  {
+    "name": "Steel Greaves",
+    "amiibo_id": ["08050200038f0402"],
+    "appearance": "The Steel Greaves are a pair of silver medieval knight's boots that come up to the wearer's knees.",
+    "ability": "Object Shredder",
+    "abilities": {
+        "Splatoon2": "The Steel Greaves come with Object Shredder as the primary ability, which, being exclusive to the main slot of Shoes, prevents the wearer from also having Drop Roller or Stealth Jump. As a 2-star item, the Steel Greaves come with two additional slots for secondary abilities, which may be increased to a maximum of three slots with a Super Sea Snail for each slot. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability.",
+        "Splatoon3": "The Steel Greaves come with Object Shredder as the primary ability, which, being exclusive to the main slot of Shoes, prevents the wearer from also having Drop Roller or Stealth Jump. As a 1-star item, the Steel Greaves come with two additional slots for secondary abilities. The star level may be increased with Super Sea Snails for 1 (first), 1 (second), 5 (third), 10 (fourth), or 20 (fifth) Super Sea Snails per star. Increasing the star level to 2 stars will add another secondary ability slot for a total of three slots. Increasing the star level beyond 2 stars will increase the gear experience gained by a cumulative 3.333…% up to 10% additional experience at 5-star level. Since they are made by the amiibo gear brand, they have equal chances to roll any secondary ability."
+    }
+  },
+]
