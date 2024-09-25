@@ -1,0 +1,118 @@
+[
+    {
+        "amiiboSeries": "Xenoblade Chronicles 3",
+        "character": "Noah",
+        "gameSeries": "Xenoblade Chronicles",
+        "games3DS": [],
+        "gamesSwitch": [
+            {
+                "amiiboUsage": [
+                    {
+                        "Usage": "Unlock the “N’s Consul Suit” outfit for Noah as well as Noah, Lanz, and Eunie costumes without jackets",
+                        "write": false
+                    },
+                    {
+                        "Usage": "Unlock a character-specific weapon skin for characters using the Swordfighter Class",
+                        "write": false
+                    }
+                ],
+                "gameID": [
+                    "010074F013262000"
+                ],
+                "gameName": "Xenoblade Chronicles 3"
+            }
+        ],
+        "gamesWiiU": [],
+        "head": "22430000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22430000-043d1b02.png",
+        "name": "Noah",
+        "release": {
+            "au": "2024-01-19",
+            "eu": "2024-01-19",
+            "jp": "2024-01-19",
+            "na": "2024-01-19"
+        },
+        "tail": "043d1b02",
+        "type": "Figure"
+    },
+    {
+        "amiiboSeries": "Xenoblade Chronicles 3",
+        "character": "Mio",
+        "gameSeries": "Xenoblade Chronicles",
+        "games3DS": [],
+        "gamesSwitch": [
+            {
+                "amiiboUsage": [
+                    {
+                        "Usage": "Unlock the “N’s Consul Suit” outfit for Noah as well as Noah, Lanz, and Eunie costumes without jackets",
+                        "write": false
+                    },
+                    {
+                        "Usage": "Unlock a character-specific weapon skin for characters using the Swordfighter Class",
+                        "write": false
+                    }
+                ],
+                "gameID": [
+                    "010074F013262000"
+                ],
+                "gameName": "Xenoblade Chronicles 3"
+            }
+        ],
+        "gamesWiiU": [],
+        "head": "22440000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_22440000-043e1b02.png",
+        "name": "Mio",
+        "release": {
+            "au": "2024-01-19",
+            "eu": "2024-01-19",
+            "jp": "2024-01-19",
+            "na": "2024-01-19"
+        },
+        "tail": "043e1b02",
+        "type": "Figure"
+    },
+    {
+        "amiiboSeries": "Super Smash Bros.",
+        "character": "Sora",
+        "gameSeries": "Kingdom Hearts",
+        "games3DS": [],
+        "gamesSwitch": [
+            {
+                "amiiboUsage": [
+                    {
+                        "Usage": "Battle and train up a computer-controlled Figure Player of the character",
+                        "write": false
+                    },
+                    {
+                        "Usage": "Written Figure Player data from Super Smash Bros. for Wii U / 3DS can be converted to work with Ultimate (but not back again).",
+                        "write": true
+                    },
+                    {
+                        "Usage": "Receive a Spirit of the character\nFigures of these characters grant the same Spirit as one another:\n- Alm and Celica\n- Callie and Marie\n- Octoling Girl and Octoling Boy\n- Pearl and Marina\n- Reese and Cyrus\n\nFigures of these characters grant multiple Spirits from a single scan:\n- Pikmin",
+                        "write": false
+                    },
+                    {
+                        "Usage": "Unlock Timmy & Tommy's shop early",
+                        "write": false
+                    }
+                ],
+                "gameID": [
+                    "01006A800016E000"
+                ],
+                "gameName": "Super Smash Bros. Ultimate"
+            },
+        ],
+        "gamesWiiU": [],
+        "head": "3f000000",
+        "image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_3f000000-042e0002.png",
+        "name": "Sora",
+        "release": {
+            "au": "2024-02-16",
+            "eu": "2024-02-16",
+            "jp": "2024-02-16",
+            "na": "2024-02-16"
+        },
+        "tail": "042e0002",
+        "type": "Figure"
+    }
+]
