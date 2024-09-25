@@ -13,50 +13,5 @@
         },
         "type": "Figure",
         "lifeLink": "https://amiibo.life/amiibo/splatoon/marina-side-order"
-    },
-    {
-        "amiiboSeries": "Splatoon",
-        "character": "Pearl (Side Order)",
-        "gameSeries": "Splatoon",
-        "image": "https://amiibo.life/assets/figures/amiibo/splatoon/pearl-side-order-9d57aa508780a405aef59128538a1499c6b86fd5eb879cfc4ac6a98bbe0d8256.png",
-        "name": "Pearl (Side Order)",
-        "release": {
-            "au": "2024-09-05",
-            "eu": "2024-09-05",
-            "jp": "2024-09-05",
-            "na": "2024-09-05"
-        },
-        "type": "Figure",
-        "lifeLink": "https://amiibo.life/amiibo/splatoon/pearl-side-order"
-    },
-    {
-        "amiiboSeries": "Splatoon",
-        "character": "Marie (Alterna)",
-        "gameSeries": "Splatoon",
-        "image": "https://amiibo.life/assets/figures/amiibo/splatoon/marie-alterna-898259f385f11349cee3a984b1194a4cf13d678b27bee18e7a6ad5c84e92009e.png",
-        "name": "Marie (Alterna)",
-        "release": {
-            "au": "2024-09-05",
-            "eu": "2024-09-05",
-            "jp": "2024-09-05",
-            "na": "2024-09-05"
-        },
-        "type": "Figure",
-        "lifeLink": "https://amiibo.life/amiibo/splatoon/marie-alterna"
-    },
-    {
-        "amiiboSeries": "Splatoon",
-        "character": "Callie (Alterna)",
-        "gameSeries": "Splatoon",
-        "image": "https://amiibo.life/assets/figures/amiibo/splatoon/callie-alterna-a49354eb5a19ffc61f1cc18d7de7d02f27b0ce3538582fb31c44c74207156a21.png",
-        "name": "Callie (Alterna)",
-        "release": {
-            "au": "2024-09-05",
-            "eu": "2024-09-05",
-            "jp": "2024-09-05",
-            "na": "2024-09-05"
-        },
-        "type": "Figure",
-        "lifeLink": "https://amiibo.life/amiibo/splatoon/callie-alterna"
     }
 ]
